@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Begin Header style */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ body {
     margin-left: 25px;
 }
 
+/* General link and paragraph styles */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*What we do style*/
 
 .content {
     width: 75%;
@@ -93,6 +101,8 @@ p {
     margin-left: 25px;
 }
 
+/* Why we do style */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +129,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer style */
 
 footer {
     padding: 30px;
