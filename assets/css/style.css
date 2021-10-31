@@ -8,6 +8,18 @@ body {
     background-color: #d9dcd6;
 }
 
+/* General link and paragraph styles */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
 /* Begin Header style */
 
 .header {
@@ -43,18 +55,7 @@ body {
     margin-left: 25px;
 }
 
-/* General link and paragraph styles */
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-/* Hero Style */
+/*  Begin Hero Style */
 
 .hero {
     height: 800px;
@@ -65,7 +66,7 @@ p {
     background-position: center;
 }
 
-/*What we do style*/
+/* Begin What We Do Style*/
 
 .content {
     width: 75%;
@@ -101,7 +102,7 @@ p {
     margin-left: 25px;
 }
 
-/* Why we do style */
+/* Begin Why We Do Style */
 
 .benefits {
     margin-right: 20px;
@@ -130,7 +131,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer style */
+/* Begin Footer Style */
 
 footer {
     padding: 30px;
