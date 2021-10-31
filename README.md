@@ -1,17 +1,9 @@
 # Horiseon
 
-## Purpose
-A website that offers brands and businesses search engine optmization, online reputation management, and social media marketing. 
+A website that promotes Horiseon, a company that offers other brands and businesses search engine optmization, online reputation management, and social media marketing. 
 
-## Built With
-* HTML
-* CSS
 
-## Website
+![shot-20211031-25530-19sw5oa](https://user-images.githubusercontent.com/91864476/139563359-1deeb987-833a-485b-bb27-6bc1ba223048.jpeg)
+
+
 https://berkforbes.github.io/Horiseon/
-
-## Contribution
-Made with ❤️ by [Berk Forbes]
-
-### ©️2021 Horiseon 
-
